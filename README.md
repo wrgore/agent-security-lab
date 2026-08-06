@@ -7,6 +7,8 @@ a baseline harness, and a security-hardened harness — using a 23-test suite de
 direct installation on commercial agents. SHarD achieved an adjusted score of 100%, matching the best securely configured commercial agent, with no regression across any test category. Notable observations include evidence that model non-determinism produces inconsistent security outcomes and that autonomous agent behavior can cross system boundaries in ways that OS sandboxing directly mitigates. Initial characteristics toward a
 control harness fitness framework are proposed, and a third research question is identified for future investigation.
 
+[arXiv link](https://arxiv.org/html/2607.25890v1)
+
 ## Artifacts
 SHarD or Secure Harness Distribution is built on the framework provided by [Pi Coding Agent](https://github.com/earendil-works/pi).The demo code, which was used for the research, can be found at [github.com/wrgore/shard-demo](https://github.com/wrgore/shard-demo).
 
